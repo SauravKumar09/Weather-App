@@ -1,20 +1,20 @@
 Welcome to the Weather-App repository! This project is a user-friendly weather application built using ReactJS and integrated with a reliable weather API. Its primary purpose is to provide real-time and accurate weather information for any city worldwide, making it a go-to resource for staying updated on current temperature and weather conditions.
 
-Key Features:
+# Key Features:
 
-Global Weather Data: Get instant access to the current temperature and weather conditions for any city on the planet.
-Responsive Design: Enjoy a seamless experience across various devices with a responsive and intuitive user interface.
-Detailed Information: Dive deeper into weather details, including humidity, wind speed, atmospheric pressure, and more.
-User-Friendly: Simple and easy-to-use, this app is designed for users of all levels.
-Customization: Personalize your experience by selecting between Celsius and Fahrenheit temperature units.
+1. Global Weather Data: Get instant access to the current temperature and weather conditions for any city on the planet.
+2. Responsive Design: Enjoy a seamless experience across various devices with a responsive and intuitive user interface.
+3. Detailed Information: Dive deeper into weather details, including humidity, wind speed, atmospheric pressure, and more.
+4. User-Friendly: Simple and easy-to-use, this app is designed for users of all levels.
+5. Customization: Personalize your experience by selecting between Celsius and Fahrenheit temperature units.
 
-Getting Started:
+# Getting Started:
 
-Clone the repository to your local machine.
-Install the required dependencies.
-Obtain an API key from [Weather API Provider] and replace it in the configuration file.
-Run the app locally to access real-time weather data for your desired cities.
-We encourage you to explore, contribute, and collaborate with us on this open-source project. Your input is valuable, and together, we can enhance this Weather App to serve users worldwide better.
+1. Clone the repository to your local machine.
+2. Install the required dependencies.
+3. Obtain an API key from [Weather API Provider] and replace it in the configuration file.
+4.Run the app locally to access real-time weather data for your desired cities.
+5. We encourage you to explore, contribute, and collaborate with us on this open-source project. Your input is valuable, and together, we can enhance this Weather App to serve users worldwide better.
 
 Thank you for being a part of the Weather-App community. Feel free to reach out with questions, ideas, or suggestions as we work together to provide accessible and accurate weather information.
  
