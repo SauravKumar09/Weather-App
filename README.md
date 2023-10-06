@@ -2,11 +2,11 @@ Welcome to the Weather-App repository! This project is a user-friendly weather a
 
 Key Features:
 
-# Global Weather Data: Get instant access to the current temperature and weather conditions for any city on the planet.
-# Responsive Design: Enjoy a seamless experience across various devices with a responsive and intuitive user interface.
-# Detailed Information: Dive deeper into weather details, including humidity, wind speed, atmospheric pressure, and more.
-# User-Friendly: Simple and easy-to-use, this app is designed for users of all levels.
-# Customization: Personalize your experience by selecting between Celsius and Fahrenheit temperature units.
+Global Weather Data: Get instant access to the current temperature and weather conditions for any city on the planet.
+Responsive Design: Enjoy a seamless experience across various devices with a responsive and intuitive user interface.
+Detailed Information: Dive deeper into weather details, including humidity, wind speed, atmospheric pressure, and more.
+User-Friendly: Simple and easy-to-use, this app is designed for users of all levels.
+Customization: Personalize your experience by selecting between Celsius and Fahrenheit temperature units.
 
 Getting Started:
 
